@@ -15,5 +15,7 @@ Usage
 * **URLs**
 
   http://localhost:80/WHO: outputs the number of active connections.
+
   http://localhost:80/WHERE: outputs the IP address of the server.
+
   http://localhost:80/WHY: outputs the string "42".
